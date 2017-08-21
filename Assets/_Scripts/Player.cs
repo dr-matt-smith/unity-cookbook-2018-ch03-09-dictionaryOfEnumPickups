@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class PlayerInventory : MonoBehaviour
+public class Player : MonoBehaviour
 {
 	private InventoryManager inventoryManager;
 

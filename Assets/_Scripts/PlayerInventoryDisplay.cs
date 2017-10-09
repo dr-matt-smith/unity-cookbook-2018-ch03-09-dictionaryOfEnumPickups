@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 using System.Collections.Generic;
 
-[RequireComponent(typeof(Player))]
+[RequireComponent(typeof(PlayerController))]
 [RequireComponent(typeof(InventoryManager))]
 public class PlayerInventoryDisplay : MonoBehaviour
 {
